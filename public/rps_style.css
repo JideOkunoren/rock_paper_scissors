@@ -1,0 +1,61 @@
+ #main { 
+margin: 0 auto;
+	width: 960px;
+	
+ }
+ #game_title{
+    float: right;
+    margin-right: -7px;
+    text-align: center;
+    width: 614px;
+ }
+ #weapons {
+ 	 float:left;
+ 	 margin:150px 0 25px 200px;;
+ 	 width:800px; 
+ }
+ #weapons ul {
+ list-style:none;  
+ margin-left:100px;
+ }
+  #weapons ul li{
+   float:left;
+   padding-left:50px;
+ } 
+ .images {
+ 	height:150px;
+ 	width:150px; 
+ } 
+ #player1{
+ 	float:right;
+ 	width:300px; 
+}
+ #player2{
+ 	float:right;
+ 	width:300px; 
+} 
+ #status {  
+ margin-top:400px;
+ } 
+ .error {
+ 	font-weight:bold;
+ 	color:red;
+ }  
+ #gameplay { 
+margin-top:500px;
+width:800px;
+ } 
+.update {
+ 	font-size:1.4em;
+ 	margin-right:5px;
+ } 
+ .player {
+ 	 margin-left:5px;
+ }
+ #finished {
+  font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 100px;
+    text-align: center;
+ 	font-size:1.5em;
+ } 
